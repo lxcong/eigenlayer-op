@@ -1,7 +1,9 @@
 {
-    name: "0xlxcong",
-    website: "https://github.com/lxcong",
-    description: "make ethereum great again",
-    logo: "https://raw.githubusercontent.com/lxcong/eigenlayer-op/master/logo.png",
-    twitter: "https://twitter.com/lxcong"
+    "name": "0xlxcong",
+    "website": "https://github.com/lxcong",
+    "description": "make ethereum great again",
+    "logo": "https://raw.githubusercontent.com/lxcong/eigenlayer-op/master/logo.png",
+    "twitter": "https://twitter.com/lxcong"
 }
+
+
